@@ -7,7 +7,8 @@ This web application displays a real image of an object in space (such as a plan
 
 
 ### Screenshots
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Alt text](public/moon1.jpg)
+![Alt text][app-screenshot1]
 
 # Built With
 
@@ -91,7 +92,9 @@ Follow the steps below to setup and run this project locally.
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[app-screenshot1]: public/moon1.jpg
+[app-screenshot2]: public/moon1.jpg
+[app-screenshot3]: public/moon1.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
