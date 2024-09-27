@@ -3,7 +3,7 @@
 This web application displays a real image of an object in space (such as a planet, galaxy, nebula etc) and uses meta data to calculate interesting metrics about that object relative to earth (such as how far away the object is from Earth and how much larger/smaller the object is compared to Earth). Certain metrics for certain objects may not currently be known (such as temperature comparisons with a black hole) and the app is able to adjust accordingly, so only 'factual' information ends up being displayed to the user. 
 
 
-* **NOTE:** This is *not* the completed project. It's a previous iteration I managed to recover. The completed project is on my GitHub Enterprise account. Due to the University of Minnesota's recent change to end lifetime alumni support, I no longer have access to what was my primary GitHub account (more details on my [homepage](https://github.com/alexmking1)). While this unfinished version of the project still functions, it lacks the Node.js/Express functionality that was added later and will serve as a placeholder until I regain access to my Enterprise account.  
+* **NOTE:** This is *not* the completed project. It's a previous iteration I managed to recover. The completed project is on my GitHub Enterprise account. Due to the University of Minnesota's recent change to end lifetime alumni support, I no longer have access to what was my primary GitHub account (more details on my [homepage](https://github.com/alexmking1)). While this unfinished version of the project still functions, it lacks the Express.js functionality and metrics CSS styling that was added later and will serve as a placeholder until I regain access to my Enterprise account.  
 
 
 ### Screenshots
