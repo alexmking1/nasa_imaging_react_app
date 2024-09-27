@@ -6,9 +6,22 @@ This web application displays a real image of an object in space (such as a plan
 * **NOTE:** This is *not* the completed project. It's a previous iteration I managed to recover. The completed project is on my GitHub Enterprise account. Due to the University of Minnesota's recent change to end lifetime alumni support, I no longer have access to what was my primary GitHub account (more details on my [homepage](https://github.com/alexmking1)). While this unfinished version of the project still functions, it lacks the Express.js functionality and metrics CSS styling that was added later and will serve as a placeholder until I regain access to my Enterprise account.  
 
 
-### Screenshots
-![Alt text](public/moon1.jpg)
+# Screenshots
+### Primary view (emphasizing the table of metrics)
 ![Alt text][app-screenshot1]
+
+
+### Sidebar View (emphasizing general information)
+![Alt text][app-screenshot2]
+
+<!--
+<table>
+  <tr>
+    <td><img src="public/nasa_app_screenshots/nasa_proj_screenshot1.png" alt="Alt text"></td>
+    <td><img src="public/nasa_app_screenshots/nasa_proj_screenshot2.png" alt="Alt text"></td>
+  </tr>
+</table>
+-->
 
 # Built With
 
@@ -22,7 +35,7 @@ This web application displays a real image of an object in space (such as a plan
 
 Follow the steps below to setup and run this project locally.
 
-## Prerequisites
+# Prerequisites
 
 * npm
   ```sh
@@ -92,8 +105,8 @@ Follow the steps below to setup and run this project locally.
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[app-screenshot1]: public/moon1.jpg
-[app-screenshot2]: public/moon1.jpg
+[app-screenshot1]: public/nasa_app_screenshots/nasa_proj_screenshot1.png
+[app-screenshot2]: public/nasa_app_screenshots/nasa_proj_screenshot2.png
 [app-screenshot3]: public/moon1.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
